@@ -1,16 +1,21 @@
-## Hi there 👋
+## Привет, меня зовут Рамис 👋
 
-<!--
-**ramisz/ramisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Я дата сайентист! 
 
-Here are some ideas to get you started:
+__Мои проекты__
+- [Учебные проекты](https://github.com/ramisz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__Мои Сертификаты__
+- [Сертификаты](https://github.com/ramisz/cert)
+
+
+__Мои навыки__
+- Языки: Python, SQL.
+- Инструменты: scikit-learn, pytorch
+
+
+__Контакты__
+
+**Имя:** [Зайнуллин Рамис](https://github.com/ramisz)  
+**Email:** [zainyllin_ramis@mail.ru](mailto:zainyllin_ramis@mail.ru)  
+**Telegram:** [@ramis_zaynullin](https://t.me/ramis_zaynullin) 
