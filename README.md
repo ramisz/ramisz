@@ -32,7 +32,8 @@
 - Работа с текстовыми данными и LLM (nltk, gensim, transformers, BERT, GPT)
 - Linux, Bash, GIT, Anaconda, Jupyter
 - Теория вероятностей / математическая статистика (проверка гипотез, A/B тестирование)
-- Линейная алгебра / Машинное обучение (Linear/Logistic Regression, SVM, Decision Trees, Ансамблирование моделей, PCA, k-neighbors, k-means, DBSCAN)
+- Линейная алгебра / математический анализ
+- Машинное обучение (Linear/Logistic Regression, SVM, Decision Trees, Ансамблирование моделей, PCA, k-neighbors, k-means, DBSCAN)
 - Телекоммуникации (TCP/IP, радиосвязь)
 - Английский B1 intermediate
 
