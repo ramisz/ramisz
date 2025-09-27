@@ -29,7 +29,8 @@
 - Создание нейросетей (Pytorch)
 - Выбор и построение ML-модели под задачу (scikit-learn, xgboost, catboost, lightgbm)
 - Создание рекомендательных систем
-- Работа с текстовыми данными и LLM (nltk, gensim, transformers, BERT, GPT)
+- Работа с текстовыми данными и LLM / NLP (nltk, gensim, transformers, BERT, GPT)
+- Компьютерное зрение (OpenCV, torchvision)
 - Linux, Bash, GIT, Anaconda, Jupyter
 - Теория вероятностей / математическая статистика (проверка гипотез, A/B тестирование)
 - Линейная алгебра / математический анализ
